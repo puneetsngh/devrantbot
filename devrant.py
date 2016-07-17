@@ -44,14 +44,6 @@ I work inline. Just see some examples /learn to get an idea about me.
     bot.send_document(message.chat.id,open('media/devrant.mp4','r'))
     user_joined(message)
 
-usertext = '''
-New User : {}
-First Name : {}
-Last Name : {}
-Username : {}
-Type : {}
-Title : {}
-'''
 def user_joined(message):
     try:
         in_file = open('devrantuserlist.json','r')
