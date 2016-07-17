@@ -6,7 +6,7 @@
 
 unofficial devRant Bot for Telegram messaging app
 
-## Screenshot
+## Demo
 ![Alt Text](https://github.com/puneetsngh/devrantbot/blob/master/media/devrant.gif)
 
 ## Requirements
